@@ -1,0 +1,149 @@
+{
+  "soundcloud_mix": {
+    "title": "REC 002 — Vinyl Only",
+    "url": "https://soundcloud.com/rulez_ita/rec002",
+    "embed_url": "https://api.soundcloud.com/tracks/2337501989"
+  },
+  "text": {
+    "rulez": "RULEZ",
+    "about": "About",
+    "music": "Music",
+    "live": "Live",
+    "contact": "Contact",
+    "dj_producer_quantum_records": "DJ · Producer · Quantum Records",
+    "rulez_2": "RULEZ",
+    "minimal_rominimal": "Minimal / Rominimal",
+    "turin_italy": "Turin, Italy",
+    "vinyl_digital_hybrid": "Vinyl · Digital · Hybrid",
+    "scroll": "Scroll ↓",
+    "01_about": "01 / About",
+    "the_dj": "THE DJ",
+    "based_in_turin_rulez_builds_dancefloor_focused_sets_around_minima": "Based in Turin, Rulez builds dancefloor-focused sets around minimal, rominimal and minimal house. Vinyl, digital or hybrid: the format changes, the priority stays the same — groove, tension and a direct read of the room.",
+    "the_producer": "THE PRODUCER",
+    "in_the_studio_rulez_follows_a_hardware_oriented_workflow_focused_": "In the studio, Rulez follows a hardware-oriented workflow focused on raw, effective club tracks. He is the founder of Quantum Records, an independent imprint created to release his own music and develop a precise vision of contemporary minimal.",
+    "base": "Base",
+    "turin_italy_2": "Turin, Italy",
+    "style": "Style",
+    "minimal_rominimal_minimal_house": "Minimal · Rominimal · Minimal House",
+    "format": "Format",
+    "vinyl_digital_hybrid_2": "Vinyl · Digital · Hybrid",
+    "imprint": "Imprint",
+    "quantum_records": "Quantum Records",
+    "02_dj": "02 / DJ",
+    "in_the_booth": "IN THE\nBOOTH",
+    "performance_first_a_flexible_setup_built_around_the_club_the_room": "Performance first. A flexible setup built around the club, the room and the moment.",
+    "vinyl_digital_hybrid_3": "Vinyl / Digital / Hybrid",
+    "sound_on_performance_01": "Sound on · Performance 01",
+    "full_mix": "Full mix",
+    "rec_002_vinyl_only": "REC 002 — Vinyl Only",
+    "listen_on_soundcloud": "Listen on SoundCloud ↗",
+    "03_music": "03 / Music",
+    "forthcoming": "Forthcoming",
+    "selected_releases": "Selected Releases",
+    "full_discography_bandcamp": "Full Discography · Bandcamp ↗",
+    "beatport": "Beatport ↗",
+    "media_support": "Media support",
+    "04_projects": "04 / Projects",
+    "05_live_curation": "05 / Live & Curation",
+    "from_the_ground_up": "FROM THE\nGROUND UP",
+    "gianca_murazzi": "Gianca Murazzi",
+    "turin_dj": "Turin · DJ",
+    "electronic_chalet": "Electronic Chalet",
+    "founder_curator": "Founder / Curator",
+    "paco_wegmann": "Paco Wegmann",
+    "shared_lineup_decks": "Shared lineup / decks",
+    "06_media": "06 / Media",
+    "live_booth": "Live / Booth",
+    "performance_02": "Performance 02",
+    "archive_live": "Archive / Live",
+    "performance_03": "Performance 03",
+    "07_contact": "07 / Contact",
+    "booking_contact": "BOOKING\n& CONTACT",
+    "booking": "Booking",
+    "quantum909_bookings_gmail_com": "quantum909.bookings@gmail.com",
+    "artist": "Artist",
+    "rulez_quantum_gmail_com": "rulez.quantum@gmail.com",
+    "links": "Links",
+    "instagram": "Instagram ↗",
+    "soundcloud": "SoundCloud ↗",
+    "bandcamp": "Bandcamp ↗",
+    "quantum_909_2": "Quantum.909 ↗",
+    "rulez_2026": "RULEZ — 2026",
+    "rulezmusic_com": "rulezmusic.com"
+  },
+  "links": {
+    "full_discography_bandcamp": "https://rulezita.bandcamp.com/",
+    "beatport": "https://www.beatport.com/it/artist/rulez-ita/1269646",
+    "quantum909_bookings_gmail_com": "mailto:quantum909.bookings@gmail.com",
+    "rulez_quantum_gmail_com": "mailto:rulez.quantum@gmail.com",
+    "instagram": "https://www.instagram.com/rulez_ita/",
+    "soundcloud": "https://soundcloud.com/rulez_ita",
+    "bandcamp": "https://rulezita.bandcamp.com/",
+    "quantum_909_2": "https://www.instagram.com/quantum.909/"
+  },
+  "media": {
+    "hero": {
+      "src": "media/hero.jpg",
+      "alt": "RULEZ portrait"
+    },
+    "dj_main": {
+      "src": "media/dj-main.mp4"
+    },
+    "media_1": {
+      "src": "media/media-1.mp4"
+    },
+    "media_2": {
+      "src": "media/media-2.mp4"
+    }
+  },
+  "forthcoming": [
+    {
+      "year": "2027",
+      "title": "EP TBA",
+      "label": "Evaporate 蒸發 · Digital · Forthcoming 2027"
+    },
+    {
+      "year": "TBA",
+      "title": "Everyone Knows EP",
+      "label": "Melatune Records · Forthcoming"
+    }
+  ],
+  "releases": [
+    {
+      "year": "2026",
+      "title": "Water EP",
+      "label": "Quantum Records",
+      "url": "https://rulezita.bandcamp.com/album/water-ep"
+    },
+    {
+      "year": "2026",
+      "title": "Crystals EP",
+      "label": "Quantum Records",
+      "url": "https://rulezita.bandcamp.com/album/crystals-ep"
+    }
+  ],
+  "projects": [
+    {
+      "title": "QUANTUM.909",
+      "role": "Founder",
+      "description": "Event format and independent imprint developed around raw minimal house, club-driven music and a direct artistic identity.",
+      "url": "https://www.instagram.com/quantum.909/"
+    },
+    {
+      "title": "ELEMENT",
+      "role": "Founder / Resident",
+      "description": "Club and open-air event series curated around a deeper, hypnotic and forward-facing minimal sound.",
+      "url": "https://www.instagram.com/element.808/"
+    },
+    {
+      "title": "ELECTRONIC LIBRARY",
+      "role": "Founder / Legacy Project",
+      "description": "Earlier event project developed in the Aosta Valley. A formative chapter in Rulez's approach to crowd reading, curation and building electronic music events from the ground up."
+    }
+  ],
+  "media_support": [
+    "Storytellers",
+    "After Rave",
+    "Rayzeh"
+  ]
+}
